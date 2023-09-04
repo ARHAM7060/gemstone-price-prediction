@@ -1,0 +1,25 @@
+## GEMSTONE PRICE PREDICTION
+
+### STEP1. CREATION OF ENVIRONMENT 
+```
+COMMAND TO CREATE ENVIRONMENT   - 'conda create -p venv python==3.8'
+COMMAND TO ACTIVATE ENVIRONMENT - 'conda activate venv/'
+```
+
+### STEP2. CREATION OF REQUIREMENTS.TXT FILE
+```
+NAME         - requirements.txt
+INSTALLATION - pip install -r requirements.txt
+```
+
+### STEP3. CREATION OF SETUP.PY FILE
+```
+NAME            - setup.py
+command to run  - 
+```
+
+### TO TRIGGER SETUP.PY USING REQUIREMENTS.TXT
+```
+WRITE '-e .' TEXT IN THE REQUIREMENTS.TXT FILE
+NOW IF WE RUN REQUIREMENTS.TXT FILE SETUP.PY FILE WILL ALSO RUN
+```
